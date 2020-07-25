@@ -69,8 +69,9 @@ d) 4. Fun with Keypoints.ipynb
 To exit the environment when you have completed your work session, simply close the terminal window.
 
 # Changing the work to suit your needs  
-Notebook **2. Define the Network Architecture.ipynb** & **models.py** are where the main changes should be made to tailor it your needs:
-a. **models.py** - defining the CNN architecture or layers
+Notebook **2. Define the Network Architecture.ipynb** & **models.py** are where the main changes should be made to tailor them to your needs:  
+a. **models.py** - defining the CNN architecture or layers  
+
 b. **2. Define the Network Architecture.ipynb** - try out different loss functions and optimisers, hyper-parameters for batch_size, learning rate, epoch_size to train and test your CNN architecture.  
 
-There are already various **2. Define the Network Architecture-XXX.ipynb** notebooks which has experimented with different loss functions, optimisers and hyper-parameters. You may look at the results of those and gain an inituiton of what else to change to suit your needs or improve the accuracy further.
+There are various **2. Define the Network Architecture-XXX.ipynb** notebooks which have experimented with different loss functions, optimisers and hyper-parameters. You may look at the results of those and gain an inituiton of what else to change to suit your needs or improve the accuracy further.
