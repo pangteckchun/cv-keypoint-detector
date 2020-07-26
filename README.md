@@ -74,4 +74,6 @@ a. **models.py** - defining the CNN architecture or layers
 
 b. **2. Define the Network Architecture.ipynb** - try out different loss functions and optimisers, hyper-parameters for batch_size, learning rate, epoch_size to train and test your CNN architecture.  
 
-There are various **2. Define the Network Architecture-XXX.ipynb** notebooks which have experimented with different loss functions, optimisers and hyper-parameters. You may look at the results of those and gain an inituiton of what else to change to suit your needs or improve the accuracy further.
+There are various **2. Define the Network Architecture-XXX.ipynb** notebooks which have experimented with different loss functions, optimisers and hyper-parameters. You may look at the results of those and gain an inituiton of what else to change to suit your needs or improve the accuracy further.  
+
+LICENSE: This project is licensed under the terms of the MIT license.
